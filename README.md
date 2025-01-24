@@ -1,5 +1,5 @@
 # endoQAeval
-Repository for Evaluation of GPT-4 for Patient Question Answering about Endometriosis
+Repository for "Evaluation of GPT-4 for Patient Question Answering about Endometriosis"
 
 **Objective**
 To investigate the information quality, empathy, and actionability of GPT-4 responses to patient questions regarding endometriosis, a stigmatized and understudied condition. We combine physician and patient perspectives.
