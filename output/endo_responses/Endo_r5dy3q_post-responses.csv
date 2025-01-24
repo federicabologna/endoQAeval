@@ -1,0 +1,22 @@
+question_id,prompt_type,response
+Endo_r5dy3q_post,no_prompt,"sorry to hear about your symptoms and quite understandably it's a tough decision to make. reddit's endometriosis community would probably be a very valuable resource for you to look into about these experiences and decisions.
+
+however, to provide some general understanding, endometriosis is most definitively diagnosed by a laparoscopy. this allows your doctor to visually confirm the presence of endometrial tissue outside of the uterus. mris can sometimes help identify endo, but they are not always conclusive, and it is possible to have endo not detected by an mri. 
+
+on the other hand, laparoscopy is a surgical procedure and does carry potential risks, even though it is minimally invasive. it necessitates recovery time post-operation and the potential for complications during the operation. 
+
+option 3, orilissa treatment, can help manage symptoms of endo without a definitive diagnosis, but may have side effects, and it doesn't confirm whether you have endo or not.
+
+what works best greatly depends on the individual and other considerations like one's overall health, the severity of the symptoms and the willingness to undergo surgery. it's important that you discuss these options with your doctor in detail and feel comfortable with your choice."
+Endo_r5dy3q_post,doc_prompt,"option 1, mri, can sometimes detect endometriosis, but it is not always reliable, especially when it comes to smaller implants or endometriosis on the bowel. option 2, laparoscopy, is considered the gold standard for confirming an endometriosis diagnosis. although this is an invasive procedure, it's done under general anesthesia and most people recover within a week or two. this procedure will also allow your doctor to assess the extent of the disease and, if necessary, remove any endometriosis implants.
+
+option 3, starting treatment with orilissa, is a hormonal medication that can help control symptoms of endometriosis, but it will not confirm the diagnosis or treat bowel endometriosis specifically. it may also have side effects and its effectiveness wanes after stopping the drug.
+
+given your family history and symptoms, option 2 may provide more definitive answers and a tailored treatment plan. however, you should decide based on what you're comfortable with and your conversation with your doctor."
+Endo_r5dy3q_post,pat_prompt,"given your family history and symptoms, it's understandable that you'd want the most definitive answer, which laparoscopy (option 2) provides as it allows direct visualization of your pelvic organs. i've had it done, and though it sounds daunting, remember it's considered minimally invasive. some pain and recuperation time are expected, but those are usually managed well. 
+
+on the other hand, mri (option 1) is a non-invasive procedure and can sometimes identify deep infiltrating endometriosis, such as bowel endo. however, it's not always 100% reliable. 
+
+as for going straight to treatment (option 3), while it can offer symptom relief, it won't confirm if endo or another condition is causing your symptoms. hence, you may miss valuable information. 
+
+discuss your concerns and potential outcomes with your doctor, but my personal experience leans toward diagnostic laparoscopy for a concrete diagnosis, especially considering your severe symptoms and potential bowel involvement. it's important to remember that we're all unique, so what worked for me might not work the same for you. best of luck!"

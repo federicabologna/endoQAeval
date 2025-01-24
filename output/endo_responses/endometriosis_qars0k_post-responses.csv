@@ -1,0 +1,22 @@
+question_id,prompt_type,response
+endometriosis_qars0k_post,no_prompt,"i'm an ai developed by openai, but i can share that some of your symptoms do sound a little similar to endometriosis, including the cyclical nature of your symptoms, abdominal pain, and pain during bowel movements. however, these symptoms can be associated with many other conditions as well. pcos, for instance, can also cause pelvic pain and irregular periods and is associated with weight gain. 
+
+although lack of insurance can make it more difficult to access care, there are options available. look for resources like low-cost clinics, planned parenthood, or hospital charity care programs. when you're able to see a healthcare professional, be sure to mention all of the symptoms you're experiencing, even if you don't think they're related, they can help to form a more complete picture.
+
+over-the-counter nsaids, like ibuprofen, could help with pain management, and maintaining a balanced diet and regular exercise routine can potentially help with some pcos symptoms, although it won't cure the condition.
+
+however, i have to emphasize that while some of your symptoms do indeed relate to things seen in endometriosis, this isn't a diagnosis and a healthcare professional should definitely be consulted as soon as that's possible for you."
+endometriosis_qars0k_post,doc_prompt,"hello,
+
+sorry to hear about your symptoms. you could indeed be dealing with endometriosis, as it often brings about painful periods, gastrointestinal issues and sometimes pain during bowel movements. however, it would be unwise to make a definitive diagnosis based solely on these symptoms.
+
+while being overweight can contribute to symptoms of pcos, it neither directly causes nor prevents endometriosis. painful and/or irregular periods should always be checked out by a doctor. despite your lack of health insurance, it's important to get a proper diagnosis. look for health centers which charge based on a sliding scale. it is also worthwhile to consider dietary alterations to help manage symptoms of both endometriosis and pcos. 
+
+please bear in mind, even though lifestyle changes can help manage your symptoms, only a medical professional should make final treatment recommendations. it's crucial to have these discussions with your healthcare provider due to the complexities of both conditions. 
+
+take care."
+endometriosis_qars0k_post,pat_prompt,"i'm sorry to hear what you're going through. painful bowel movements, especially around the time of your period, along with abdominal pain could indeed signal endometriosis, where tissue similar to the uterine lining grows outside of the uterus, sometimes even on the bowel. however, it's crucial to get a proper diagnosis from a medical professional. while managing without insurance is tough, there are clinics that operate on a sliding scale you might look into. 
+
+for home management, try a heating pad on your abdomen or even a warm bath to alleviate some pain. regular exercise, a balanced diet, and maintaining a healthy weight can help manage symptoms. over-the-counter pain relievers might help with discomfort, but are not a long-term solution. 
+
+don't ignore these symptoms. reach out to local health departments, advocacy groups, and clinics for advice and assistance. keep strong! please remember while i have significant knowledge in endometriosis, i'm not a doctor and you should seek professional advice."

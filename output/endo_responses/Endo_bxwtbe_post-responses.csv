@@ -1,0 +1,22 @@
+question_id,prompt_type,response
+Endo_bxwtbe_post,no_prompt,"i am an ai and not a doctor, but i will do my best to explain based on medical knowledge and information available in the medical literature. 
+
+it's important to note that endometriosis is a chronic condition and while surgical removal can alleviate symptoms, it doesn't necessarily prevent the condition from returning. however, it is less likely to return if all of the lesions were removed during surgery, but not impossible. 
+
+symptoms such as abdominal pain and bowel symptoms overlap with irritable bowel syndrome (ibs), so your doctor may suspect that this is the cause of your discomfort. medications prescribed for ibs can help manage these symptoms.
+
+pain after sex and chest pain are not typically associated with ibs. such symptoms can be associated with endometriosis, especially if endometrial tissue is present around the vagina, uterus, bladder, or even diaphragm.
+
+it's also important to clarify- endometriosis does not ""bleed"" in the way that we think of menstrual blood. instead, the endometrial cells found outside the uterus undergo the same hormonal cycle as those inside the uterus, which can cause pain, inflammation, and even potentially, scar tissue.
+
+your mirena coil releases progesterone"
+Endo_bxwtbe_post,doc_prompt,"while it's true endometriosis may not return after successful surgery, the reoccurrence of your symptoms could be related to your condition. it's also possible for remaining endometriosis to cause symptoms even without bleeding.
+
+your symptoms after intercourse and chest pain may not be related to irritable bowel syndrome (ibs), and ibs medication may not help with these symptoms. it's also important to note that these may not be related to endometriosis either and could be due to other medical conditions.
+
+i recommend seeking a second opinion from a specialist in endometriosis. they can conduct thorough diagnostic tests to determine the exact cause of your symptoms, which may not be limited to ibs or endometriosis. 
+
+however, remember that this advice is only based on the details you provided. it's always best to consult with a healthcare provider who can evaluate your personal medical history. it's essential to communicate all of your symptoms so they can provide an accurate diagnosis and proper treatment plan for you."
+Endo_bxwtbe_post,pat_prompt,"though i'm not a doctor, i can share my personal experience and understanding about endometriosis. it's not uncommon for endometriosis symptoms to mimic those of ibs and these can include bowel symptoms as well as pain after sex. ibs medication might help with some of the bowel symptoms but not necessarily all symptoms. 
+
+as for the belief that endometriosis can't ""bleed"" anymore due to the mirena coil, it's a complex issue. the coil may help reduce the chances of new endometriosis lesions, but if any endometrial tissues were missed during surgery, they might still cause pain or discomfort, even if you aren't having periods. in addition, while the coil often reduces or stops periods, it doesn't eliminate ovulation, which can stimulate endometrial growths. i'd suggest getting a second opinion or seeing a specialist to explore further on these unexplained symptoms. it's important to keep advocating for your health - you know your body best!"

@@ -1,0 +1,14 @@
+question_id,prompt_type,response
+endometriosis_rkka33_post,no_prompt,"i'm an ai language model, and not a real doctor, but here are some general suggestions you may find helpful. do keep in mind that extreme pain should be addressed by professionals, and any delay assessing serious symptoms can lead to complications:
+
+1. you have already done well to manage with painkillers such as advil and heat pad to relax your muscles. 
+2. if possible, avoid stress and try to remain calm. mediation or deep breathing exercises can reduce tension and relax your body. 
+3. adequate rest is of utmost importance. try to lie in a comfortable position and rest as much as possible.
+4. drink warm fluids, like herbal tea, which may help to soothe you.
+5. if pain is extreme and something you haven't experienced before, you might need to go to an emergency room.
+
+this advice is generally applicable, but doesn't replace an in-person assessment by a healthcare professional. it's important to monitor your pain level and if it gets severe, don't hesitate to seek urgent medical help, even if it's a weekend."
+endometriosis_rkka33_post,doc_prompt,"it's unfortunate you're in pain. over-the-counter pain meds like advil are typically the go-to, but since you've maxed out, don't exceed the recommended dose. consider a warm bath which can provide similar to a heating pad but also offer overall body relaxation. gentle exercises (like walking, gentle yoga) can sometimes help, unless it increases your pain. stay well-hydrated and try to maintain a healthy diet; sometimes certain foods can exacerbate symptoms. 
+
+certainly contact your doctor tomorrow; they may be able to prescribe a stronger pain reliever until your laparoscopic surgery. it's important they're aware of the severity of your pain. remember, this advice is general in nature and it's imperative to consult with your health provider for personalized care. you may need immediate care if the pain worsens or if it's accompanied by fever, nausea or vomiting."
+endometriosis_rkka33_post,pat_prompt,"i'm sorry to hear you're in pain. it sounds like you've used over-the-counter pain relief options already. something that could also offer relief is a warm bath or shower. gentle stretches or yoga can sometimes help, too. certain warm teas such as chamomile or peppermint can comfort and soothe the stomach. ensure you stay hydrated and take rest. it's always okay to seek urgent medical care if the pain becomes unbearable. please remember, impossible as it seems, try not to stress; stress can often make pain worse. i'm glad you have a lap scheduled; it can provide significant relief. hang in there till you can contact your doctor tomorrow."

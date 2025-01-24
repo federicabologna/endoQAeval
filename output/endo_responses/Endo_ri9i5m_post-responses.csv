@@ -1,0 +1,26 @@
+question_id,prompt_type,response
+Endo_ri9i5m_post,no_prompt,"i'm an ai trained to assist with information, but not formal medical advice. here's a general explanation of some of the terms in your report.
+
+1. endometrioma: this is a cyst caused by endometriosis, a condition where tissue similar to the uterine lining grows outside the uterus. endometriomas are filled with menstrual blood and tissue. the presence of a hemorrhagic cyst in the report might suggest an endometrioma, but only a doctor would be able to confirm this.
+
+2. echogenic debris: this term refers to small particles that can be seen on an ultrasound. it can be present in many kinds of cysts and is not necessarily a concern.
+
+3. avascular septae: this refers to thin walls within the cyst that do not have blood vessels in them. the term 'avascular' means the cyst walls don't have their own blood supply. 
+
+4. ""fluid within the pod"": pod refers to pouch of douglas, a space between the uterus and the rectum. fluid here can be normal, but could also be associated with conditions like endometriosis.
+
+5. ""search for pelvic adhesions"": this means they looked for signs of tissue sticking"
+Endo_ri9i5m_post,doc_prompt,"from your ultrasound report, the cyst could potentially be an endometrioma, but hemorrhagic ovarian cysts are also a possibility. the fluid and mobile echogenic debris within the endometrium could be blood or other fluid, and is typically seen in conditions like endometriosis and polyps. 'fine avascular septae' refer to thin, non-blood carrying walls within the cyst, which is common in hemorrhagic cysts.
+
+in terms of your concern about the cyst bursting or ovarian torsion, the symptoms would likely be sudden severe pelvic pain, possibly with nausea/vomiting. any sudden change in your symptoms should warrant immediate medical attention. 
+
+while waiting for your appointment, continue taking the progesterone pill as directed and be observant of any changes in pain or any sudden severe pain. remember, this is only a possibility and it would need further investigation by your gynecologist to confirm. but you should not be in a terrified state as this condition is treatable."
+Endo_ri9i5m_post,pat_prompt,"from the report, the 5.5 cm cyst could possibly be an endometrioma or a hemorrhagic cyst- this can only be confirmed after further testing or laparoscopy. endometriomas are formed when the tissue lining the uterus (endometrial tissue) grows on the ovaries. they are often filled with dark, old blood, giving them the name 'chocolate cysts.' 
+
+hemorrhagic cysts result from bleeding into a functional cyst (a normal, physiological cyst). ""fine avascular septae"" refer to thin non-vascular walls within the cyst, which might be indicative of complexity, but generally, does not increase risk significantly. 
+
+the fluid and debris could be due to a previous cyst rupture or associated with menstrual cycles. this is not usually dangerous but can be a source of discomfort or pain. 
+
+an ovarian torsion would typically cause severe pain and should be treated as an emergency. if a cyst ruptures, you might experience a sudden sharp pain and then a generalized abdominal discomfort but it's usually not an emergency unless the pain is severe or there's too much bleeding.
+
+remember, everyone's body reacts differently and these are common scenarios, your situation might vary. seeing your gyna"

@@ -1,0 +1,42 @@
+question_id,prompt_type,response
+Endo_qcamqn_post,no_prompt,"i'm an ai developed by openai and based on the information available, a number of things that could be of help include:
+
+a) preparing for surgery: 
+- comfortable clothing: wear something easy to get in and out of, especially for after surgery when physical movement could be restricted. 
+- sanitary products: you may experience some bleeding after surgery, so it's a good ideato have sanitary pads ready. 
+- distractions: books, music, or films can help pass the time while recovering.  
+
+b) post surgery: 
+- mobility: in the early days after surgery, you may find it difficult to move around with ease. depending on your doctor's advice, having a loved one assist you could be useful.
+- showering: you may be able to shower yourself, but it's best to confirm with your surgeon about any limitations.
+- food and drinks: your doctor should provide you with a dietary plan. in general, focus on a balanced diet with plenty of fruits and vegetables.
+
+c) anesthesia: 
+it might cause feelings of tiredness, nausea, or discomfort - vary from person to person.
+
+d) pain management: 
+your concern about not taking pain medication is understandable, but sometimes it"
+Endo_qcamqn_post,doc_prompt,"it's commendable that you're being so proactive about your recovery. 
+
+post-surgery, you're likely to be on bed rest for sometime and may need help with movements. depending on your recovery, you should be able to manage toilet trips & showers with someone's assistance. 
+
+anesthesia might leave you feeling groggy, nauseated or confused for some time, but it usually wears off within a day. 
+
+your diet should be light, nutritious, and easy to digest - think soups, broths, and light protein sources.
+
+as for pain management, listen to your doctor's advice. while the goal is to manage pain without medications, you're undergoing a major procedure and might need them to keep discomfort at a minimum. 
+
+begin preparing your body for surgery now by maintaining a balanced diet, staying as active as your health allows, and getting plenty of rest. 
+
+post-surgery, a multivitamin could be beneficial, but your doctor can provide a more tailored recommendation. it's also important to stock up on clean, comfortable clothing and things that make you feel at ease, such as books, games, or movies for recovery. 
+
+remember, it's your care team's goal to manage your pain and recovery as effectively"
+Endo_qcamqn_post,pat_prompt,"i'm sorry you've had such a long journey. after surgery, you're likely to be quite tired and might need assistance for basic tasks initially. simple tasks like going to the bathroom should be manageable, but due to abdominal discomfort, you may want to have someone around help you shower initially.
+
+anesthesia can make you feel groggy, nauseous, and a bit disoriented when you wake up. hydrate well and eat a balanced diet to aid recovery, but avoid anything harsh for the initial days. your doctor will recommend appropriate pain medication, but you should be prepared that the pain might be more than you anticipate. 
+
+morphine pump can be very effective for the initial post-op phase when endometriosis pain can be very intense. every person's pain tolerance is different, so be open to the need for pain relief.
+
+in terms of supplements, a multivitamin with iron and b12 can help with recovery and energy. omega-3 can help with inflammation and vitamin d can help improve mood during recovery. always discuss with your doctor before starting any new supplement regimen.
+
+above all, remember that it's okay to ask for help and take time to heal. it's crucial to recovery to give your body the rest"

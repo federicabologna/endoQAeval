@@ -1,0 +1,16 @@
+question_id,prompt_type,response
+Endo_l4y1o3_post,no_prompt,"i'm really sorry to hear you're going through this. it's understandable that you're worried about your symptoms. as an ai, i'm not a doctor, but i can give you some general advice about how to approach your appointment with your gynecologist. 
+
+endometriosis can typically start to show symptoms in your 20s, so it's possible. the symptoms you're experiencing are somewhat similar to those of endometriosis, which can include pain in your abdomen, pain during menstruation, diarrhea, nausea, and other symptoms. your doctor is the best person to diagnose; it's very good you're seeing them next week.
+
+here's how you can bring it up to your doctor:
+
+1. be open and honest about your symptoms. let your doctor know exactly what you're feeling, how severe it is, and when it happens. 
+
+2. after explaining your symptoms, you could say something like, ""i've done some research online and i'm worried these symptoms could be indicators of something like endometriosis. can you help me understand if this is a possibility?""
+
+3. ask plenty of questions. don't be shy or worried about asking too many questions. it's your health and you have a"
+Endo_l4y1o3_post,doc_prompt,"endometriosis can indeed develop in your 20s and it's important to discuss any symptoms with your obgyn. your symptoms, particularly the severe pain during your period and bowel symptoms, could be indicative of this condition, but further evaluation will be necessary. to bring this up, simply express your concerns about endometriosis to your doctor and ask if your symptoms align with the condition. it's good to be proactive about your health, and thorough discussions will help your doctor make the right diagnosis. remember, online advice can't replace a doctor's evaluation but can help guide conversations. and it's okay to feel scared and worried, make sure to share your feelings with your doctor as well. they're there to help and walk you through any diagnoses or treatment plans you might need."
+Endo_l4y1o3_post,pat_prompt,"i'm sorry to hear about the pain and distress you're going through. your symptoms definitely could indicate endometriosis, as it often causes painful periods, abdominal discomfort and digestive issues. it's common to develop endometriosis in your 20s, and it's often overlooked as many of the symptoms are similar to those of other disorders.
+
+when you see your obgyn, be open and thorough about your symptoms, and don't be afraid to voice your concerns about potential endometriosis. remember, it's your body and you have the right to seek clear explanations and explore all possible conditions. getting a diagnosis for endometriosis can sometimes take a while, so be patient and persistent. keep advocating for yourself until you receive the care you need. don't forget, finding a healthcare provider who truly listens to your concerns makes all the difference. you're not alone in this, so don't hesitate to reach out for support from various communities, either online or offline. take care."

@@ -1,0 +1,16 @@
+question_id,prompt_type,response
+endometriosis_q2mvpm_post,no_prompt,"it's important to know that everyone responds differently to surgery, and recovery times can vary greatly.
+
+laparoscopic surgery for endometriosis is less invasive than a c-section, but it still requires rest for recovery. generally, you may be able to walk and move around a few hours following the procedure, but it is advisable not to engage in strenuous activities like lifting heavy items (including a young child) for at least a week or two. pain can vary from mild to severe depending on the individual and the extent of disease and treatment.
+
+regarding your concern about caring for your son, it would be a good idea to arrange some care for him for at least the first few days post-surgery. even if you're physically able, you may feel tired, nauseous, or just generally unwell. it can also be emotionally draining to go back to a full caregiving role while dealing with your own recovery.
+
+in summary, you'll likely need at least several days to get back to normal activities, and it's helpful to have someone assist with your 4 year old during this time. it's important to allow yourself time to rest and recuperate after surgery. always follow your doctor's advice regarding activity levels and recovery.
+
+good"
+endometriosis_q2mvpm_post,doc_prompt,"laparoscopic surgery for endometriosis involves small incisions and generally has a quicker recovery period than open surgery. however, it's still a significant procedure that requires proper post-operative care. typically, it's recommended to have at least 1-2 weeks of reduced activity post-surgery. 
+
+the exact duration can vary based on individual recovery rates and the extent of the procedure, but discomfort, fatigue, and bloating are common in the initial days following surgery. for this reason, it would be wise to arrange some additional help or care for your 4-year-old during this time. 
+
+while it's natural to compare this with your previous c-section experience, remember that every surgery, its recovery and each patient's response is unique. getting adequate rest, following post-op instructions, and allowing your body to heal properly will contribute to a smoother recovery. your physician will guide you on the best approach based on your health status and the specifics of the surgical procedure."
+endometriosis_q2mvpm_post,pat_prompt,"recovery from laparoscopic surgery for endometriosis varies greatly from person to person. generally, it's less invasive than a c-section, but you may still feel fatigued and experience pain for the first few days. it's advisable to arrange care for your son during this initial recovery period. you should be able to perform light tasks after a week or so, but full recovery often takes 2 to 4 weeks. remember, this process can be impacted by several factors including your body's response to surgery, the extent of the endometriosis, and the type of work you do at home. it's always wise to take more time for your recovery and listen to your body to avoid setbacks."

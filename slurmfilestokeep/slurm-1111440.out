@@ -1,0 +1,23 @@
+N1 0.00441288948059082
+N2 0.00021648406982421875
+N3 0.00021696090698242188
+N5 0.0002377033233642578
+N6 0.00037598609924316406
+N7 0.0002682209014892578
+N8 0.00027060508728027344
+N9 0.00025177001953125
+N11 0.00026488304138183594
+N12 0.000270843505859375
+N13 0.0002715587615966797
+response_1
+Error The response was filtered due to the prompt triggering Azure OpenAI’s content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766. Sleeping 3 seconds ...
+Error The response was filtered due to the prompt triggering Azure OpenAI’s content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766. Sleeping 3 seconds ...
+Error The response was filtered due to the prompt triggering Azure OpenAI’s content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766. Sleeping 3 seconds ...
+Traceback (most recent call last):
+  File "/share/luxlab/fede/generative_patient/./code/replicate_ayers.py", line 114, in <module>
+    main()
+  File "/share/luxlab/fede/generative_patient/./code/replicate_ayers.py", line 102, in main
+    answer = get_response(question, _max_tokens=n_tokens)
+  File "/share/luxlab/fede/generative_patient/./code/replicate_ayers.py", line 41, in get_response
+    return _answer
+UnboundLocalError: local variable '_answer' referenced before assignment

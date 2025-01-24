@@ -1,0 +1,24 @@
+question_id,prompt_type,response
+Endo_fe02ci_post,no_prompt,"i am an artificial intelligence assistant and can certainly provide some guidance. but remember, you should always discuss your medical concerns with your healthcare provider who can provide specific medical advice based on your unique health situation.
+
+firstly, regarding wo your current situation of nausea, bloating and fullness, it might be a side effect of levora. it usually takes a few months for your body to adjust to hormonal contraceptives. if these side effects persist, you may want to consult with your doctor who may change the brand or type of contraceptive pill.
+
+laparoscopy is a minimally invasive surgical procedure done to diagnose and treat conditions in your abdomen. it will be considered if there's suspicion of conditions such as endometriosis, pelvic inflammatory disease, cysts or other abnormal growths that cannot be 100% diagnosed with non-invasive methods. insurance coverage depends on the terms and conditions of your specific insurance plan. if it's deemed a necessary procedure by your doctor, then your insurance may cover it (subject to your deductible and copayment).
+
+as far as long-term birth control options, intrauterine devices (iuds) and implantable contraceptives (such as nexplanon), are both long-term solutions that don"
+Endo_fe02ci_post,doc_prompt,"it sounds like levora is managing your endometriosis symptoms mostly well, but your concerns about long-term use are valid. laparoscopy is commonly used for diagnosing and treating endometriosis, but any surgical procedure has its risks, and the decision should be made after careful discussions with your healthcare provider. however, it might be covered by your insurance as a diagnostic or treatment procedure required for medical necessity. you should check with your insurance company for approval on this. 
+
+non-surgical treatments for endometriosis also include hormonal therapies, such as gonadotropin-releasing hormone (gnrh) agonists and antagonists, and progesterone therapy. they can be effective, but like birth control, they may present other health risks especially with a family history of heart disease and diabetes. 
+
+a non-hormonal treatment is pain management. non-steroidal anti-inflammatory drugs (nsaids) are often used, and changes in diet and physical activity could also improve symptoms. 
+
+always consult with your healthcare provider for personalized advice tailored to your specific health situation."
+Endo_fe02ci_post,pat_prompt,"making any healthcare decision should always consider personal health circumstances and potential outcomes. an exploratory laparoscopy (conducted by a skilled surgeon knowledgeable about endometriosis) can provide a definitive diagnosis and help treat endometriosis simultaneously. 
+
+insurance is tricky. diagnostic laparoscopies often are covered by insurance, though you'll need to check the specifics of your high-deductible plan. work with your doctor’s office; they may help with the necessary insurance billing codes.
+
+you're right to consider other treatments beyond birth control. gonadotropin-releasing hormone (gnrh) agonists or antagonist therapies, and progestin therapies can be alternatives. keep in mind, each has potential side effects and may not be suitable given your family history of heart disease and diabetes. 
+
+lifestyle changes can provide some relief: maintaining a healthy weight, consuming a balanced diet, and regular exercise can indirectly help manage endometriosis. 
+
+in severe cases, hysterectomy (removal of the uterus) along with removal of endometriosis lesions can provide relief. however, it's a major surgery and not a decision to be taken lightly. always seek multiple expert opinions before deciding on any treatment course."

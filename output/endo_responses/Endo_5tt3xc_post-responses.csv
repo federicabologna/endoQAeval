@@ -1,0 +1,30 @@
+question_id,prompt_type,response
+Endo_5tt3xc_post,no_prompt,"congratulations on the step towards finding more answers and hopefully some relief too! it's completely natural to feel a mix of nerves and excitement. 
+
+here are some tips:
+
+1. diet pre-surgery: don't try to eat a lot in the days leading up to the surgery in anticipation of not being able to eat afterwards - this is not necessary. you should follow the dietary instructions from your doctor, which often recommend only clear liquids the day before and no food after midnight the day of your surgery.
+
+2. hydration: staying as hydrated as possible is generally good advice. more fluids can help with nausea post-anesthesia.
+
+3. constipation post-surgery: pain medications can cause constipation, so you may want to ask your doctor about a laxative.
+
+4. the pain & mobility: expect some pain and discomfort post-surgery. everyone handles it differently but it's not unusual to require pain meds for the first few days. you should be up and walking around within a day or so after surgery. it helps prevent blood clots. walking up and down stairs might be a bit more challenging, so be sure to move slowly and don’t push yourself beyond what’s comfortable.
+
+5. school: as for going to school, that"
+Endo_5tt3xc_post,doc_prompt,"it's normal to feel anxious prior to surgery. it's best to maintain a normal diet before surgery. however, your surgeon may ask you to fast from midnight before the operation. hydration is important, but again, you may be asked to not drink from midnight, to prepare for anesthesia. after the surgery, start with light, easily digestible foods; eating may feel a bit uncomfortable initially but should normalize quickly. 
+
+the pain varies greatly among individuals, some experience moderate discomfort that's manageable with painkillers, while others may experience more severe pain. 
+
+as for mobility, it usually takes a few days before you are able to move comfortably again. stairs might be challenging initially, so take things slow. similarly, carrying a heavy backpack soon after surgery is not advisable. 
+
+remember, it's crucial to give your body enough time to heal. this is a significant procedure and recovery takes time. consult with your surgical team for more specific advice relevant to your situation."
+Endo_5tt3xc_post,pat_prompt,"it's natural to be nervous before your first surgery! eating a balanced, healthy diet is beneficial in the days leading up to your operation, but avoid overeating as this can strain the digestive system. hydration is key - drink plenty of water but do not aim for dehydration. your body needs to be sufficiently hydrated for the surgery. as you'll likely have to fast the night before, follow the instructions provided by your healthcare team carefully. 
+
+post-surgery, you may experience some nausea and find eating somewhat uncomfortable. light, easily digestible foods such as soup, yogurt, or smoothies are good starting points. 
+
+regarding pain, everyone's experience varies. there will be discomfort, but pain can be managed effectively with medication and rest. 
+
+stair climbing and heavy lifting, including a heavy backpack, should be avoided initially to allow your body time to heal. 
+
+lastly, it's essential to prepare emotionally. find relaxing activities, talk open-mindedly with friends or a counselor about your fears and concerns, and don't forget to celebrate this step towards potential relief from endometriosis. good luck!"
