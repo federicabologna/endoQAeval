@@ -25,8 +25,8 @@ More research is needed to determine what criterias and annotation guidelines ar
 ## Repository Overview
 
 ### `Code` folder
-- `code` contains the code used to replicate the results from [Ayers et al. (2023)](https://doi.org/10.1001/jamainternmed.2023.1838), generate answers using GPT-4, and create analysis-ready CSV files summarizing the annotators' ratings.
-- - `analysis` contains the code used to conduct analysis of the ratings: calculate inter-annotator agreement, conduct statistical significance testing to assess the difference in ratings between general and endometriosis answers, and create figures.
+contains the code used to replicate the results from [Ayers et al. (2023)](https://doi.org/10.1001/jamainternmed.2023.1838), generate answers using GPT-4, and create analysis-ready CSV files summarizing the annotators' ratings.
+- `analysis` contains the code used to conduct analysis of the ratings: calculate inter-annotator agreement, conduct statistical significance testing to assess the difference in ratings between general and endometriosis answers, and create figures.
 
 ### `Data` folder
 contains the source data used for this project.
